@@ -39,14 +39,3 @@ For the complete research methodology, implementation details, experimental resu
 
 - 📄 `docs/bandgap_prediction_report.pdf`
 - 📊 `docs/presentation.pptx`
-
-## Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-- Google Colab
